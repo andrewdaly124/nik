@@ -18,8 +18,8 @@ Git is a source control command line tool. Imagine it as sort of like OneDrive f
 
 1. `git clone https://github.com/andrewdaly124/nik.git` this will clone the repo to your local PC
 2. You're done! wanna run the code?
-    a. Go into the folder containing this README
-    b. `shift` + right click and select "Open PowerShell window here"
-    c. a PowerShell window should open reading `PS C:\Users\yourPCName\pathToFolder\nik>`
-    d. then run the code by typing `python .\Andrew\scramble.py` or `python .\Andrew\scrambleWithNotes.py` or `python .\Nik\test.py`
+    1. Go into the folder containing this README
+    2. `shift` + right click and select "Open PowerShell window here"
+    3. a PowerShell window should open reading `PS C:\Users\yourPCName\pathToFolder\nik>`
+    4. then run the code by typing `python .\Andrew\scramble.py` or `python .\Andrew\scrambleWithNotes.py` or `python .\Nik\test.py`
 
