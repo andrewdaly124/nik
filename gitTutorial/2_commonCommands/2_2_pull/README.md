@@ -1,9 +1,11 @@
 ### 2.2 git pull
 
 ***command***
+
 `git pull`
 
 ***function***
+
 Pulls the most updated version of the repo from the branch you are currently on. Don't worry too much about what branches are for now. If you already have the most updated version of the code, this should output:
 
 ```

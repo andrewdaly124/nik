@@ -1,9 +1,11 @@
 ### 2.4 git commit
 
 ***command***
+
 `git commit` (`git commit -m "Your commit message"`)
 
 ***function***
+
 Remember when we ran `git add` to collect all local changes? This will get all those changes marked by `git add`, and package them into a change (commit). ***Unlike git add, where we can unstage files for change, THIS IS PERMANENT, meaning as soon as you run git commit, it will mark the files as an official change, and any future changes MUST be done, in a seperate commit***. It's not that big of a deal if you do make an accidental commit, just a bit annoying since now you have to revert those changes in a seperate commit.
 
 NOTE: Running this does not upload the code to github. it only marks the change in your local repo. to push the changes, you need to run `git push` which I will explain in the next section

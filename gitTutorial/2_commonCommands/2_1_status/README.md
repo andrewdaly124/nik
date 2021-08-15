@@ -1,9 +1,11 @@
 ### 2.1 git status
 
 ***command***
+
 `git status`
 
 ***function***
+
 Shows you at a high level the things you have changed locally versus what is uploaded to the repo. For example, as I write this README, this is the output of `git status`:
 
 ```
