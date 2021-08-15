@@ -39,18 +39,3 @@ PS C:\Users\pathToFolder\nik> git status
 On branch main
 Your branch is up to date with 'origin/main'.
 ```
-
-
-### Do this to run this code. I'm not done this wiki yet, I promise I'll explain these later. It's like 1 am I'm tired
-
-1. `git clone https://github.com/andrewdaly124/nik.git` this will clone the repo to your local PC
-2. You're done! wanna run the code?
-    1. Go into the folder containing this README
-    2. `shift` + right click and select "Open PowerShell window here"
-    3. a PowerShell window should open reading `PS C:\Users\yourPCName\pathToFolder\nik>`
-    4. then run the code by typing `python .\Andrew\scramble.py` or `python .\Andrew\scrambleWithNotes.py` or `python .\Nik\test.py`
-
-
-### Pulling the code
-
-
